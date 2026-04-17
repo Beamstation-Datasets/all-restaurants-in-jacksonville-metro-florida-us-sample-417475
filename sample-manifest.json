@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e109e1a3-f50d-4984-a0ec-223ff65e50fc",
+  "export_job_id": "a4df6970-f4be-4091-a9ac-728e9b32175b",
   "id_short": 417475,
-  "published_at": "2026-04-12T19:06:00Z",
+  "published_at": "2026-04-17T19:28:06Z",
   "repo_name": "all-restaurants-in-jacksonville-metro-florida-us-sample-417475",
   "sample_asset_name": "beamstation_417475_restaurants-us-jacksonvillefl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/417475/beamstation_417475_restaurants-us-jacksonvillefl_SAMPLE_DIST.csv",
-  "sample_records": 416,
-  "sample_sha256": "977288a2df1f32718494c61cf977b43713a692a6e69afece0ef67004b34ff7bb",
-  "sample_size_bytes": 1430503,
-  "total_records": 4165
+  "sample_records": 414,
+  "sample_sha256": "4bb8b6a47984a05c9f7c64263887027254fa9413c733670f696b028f7343eeb0",
+  "sample_size_bytes": 1411291,
+  "total_records": 4143
 }
