@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete restaurant data for the Jacksonville metropolitan area in northeastern Florida. Filtered by the Restaurants category group, this dataset covers the First Coast's dining market with business profiles, ratings, review trends, competitive positioning, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Jacksonville (Metro), Florida, US",
-  "export_job_id": "e109e1a3-f50d-4984-a0ec-223ff65e50fc",
+  "export_job_id": "a4df6970-f4be-4091-a9ac-728e9b32175b",
   "github_org": "Beamstation-Datasets",
   "id_short": 417475,
   "location_name": "Jacksonville, FL",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-jacksonville-metro-florida-us-sample-417475",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/417475/beamstation_417475_restaurants-us-jacksonvillefl_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 416,
-  "sample_sha256": "977288a2df1f32718494c61cf977b43713a692a6e69afece0ef67004b34ff7bb",
-  "sample_size_bytes": 1430503,
-  "total_records": 4165,
-  "updated_at": "2026-04-07T10:11:24.609378+00:00"
+  "sample_records": 414,
+  "sample_sha256": "4bb8b6a47984a05c9f7c64263887027254fa9413c733670f696b028f7343eeb0",
+  "sample_size_bytes": 1411291,
+  "total_records": 4143,
+  "updated_at": "2026-04-14T10:02:53.490039+00:00"
 }
