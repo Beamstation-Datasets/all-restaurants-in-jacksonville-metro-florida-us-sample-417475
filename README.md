@@ -1,6 +1,6 @@
 # All Restaurants in Jacksonville (Metro), Florida, US
 
-> Free BeamStation sample export with 167 rows and masked direct-contact fields.
+> Free BeamStation sample export with 415 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `417475` |
 | Location | Jacksonville, FL |
 | Category | Restaurants |
-| Full dataset size | 1,673 records |
-| Free sample size | 167 records (9.98%) |
-| Last export | 2026-04-21T10:00:46.750395+00:00 |
+| Full dataset size | 4,152 records |
+| Free sample size | 415 records (10.0%) |
+| Last export | 2026-04-28T10:26:39.867569+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-jacksonville-metro-florida-us-sample-417475/releases/download/sample-latest/beamstation_417475_restaurants-us-jacksonvillefl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
